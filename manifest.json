@@ -2,8 +2,8 @@
   "version": 1,
   "locale": "en_US.UTF-8",
   "metadata": {
-    "appmode": "jupyter-static",
-    "entrypoint": "test.ipynb"
+    "appmode": "python-api",
+    "entrypoint": "test"
   },
   "python": {
     "version": "3.8.15",
@@ -14,11 +14,11 @@
     }
   },
   "files": {
-    "test.ipynb": {
-      "checksum": "4221537c08bbf9fe8680326ec5f73683"
-    },
     "requirements.txt": {
-      "checksum": "8ededacaead332c1dec7cc2fd825573e"
+      "checksum": "742cb923dc81c23cb073b26460b08743"
+    },
+    "test.py": {
+      "checksum": "6944d69371eb4825789665ba0aea2c04"
     }
   }
 }
